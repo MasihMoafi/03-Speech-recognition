@@ -1,4 +1,4 @@
-#Speech Recognition using CNN and Transformers
+Speech Recognition using CNN and Transformers
 
 This project aims to classify spoken digits in audio recordings using a combination of Convolutional Neural Networks (CNN) and Transformers. The dataset used for training and testing consists of 3,000 audio recordings of spoken digits.
 Requirements
